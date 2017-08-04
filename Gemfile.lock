@@ -192,19 +192,12 @@ GEM
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
     unicode-display_width (1.3.0)
-    wdm (0.1.1)
 
 PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.4.5)
-  jekyll-feed
-  jekyll-gist
-  jekyll-mentions
-  jekyll-sitemap
-  wdm
 
 BUNDLED WITH
    1.15.3
